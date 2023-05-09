@@ -1,6 +1,6 @@
 def balanced(expression):
     count = 0 
-    for char in expression:
+    for char in expresion:
         if char == "(":
             count += 1
         elif char == ")":
